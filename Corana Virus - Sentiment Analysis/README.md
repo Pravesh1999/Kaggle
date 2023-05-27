@@ -25,7 +25,7 @@ The notebook is organised as follows:
     4.1) Random Forest
     4.2) Multionmial NB
     4.3) XGBoost
-    4.4) LGBClassifier
+    4.4) LGBM Classifier
     4.5) Neural Network
   5) Converting Text into Word Embedding Representation:
     5.1) pre-trained Glove model
